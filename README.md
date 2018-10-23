@@ -6,22 +6,22 @@ Personal project
 	+ xml.etree.ElementTree 
 -	Scenarios:
 	CMS	->	Ateme Encoder:
-	# 1. Create job: jobUUID = createNewJob(inputFilePath)
-	# 2. Add Preset
+	+ Create job: jobUUID = createNewJob(inputFilePath)
+	+ Add Preset
 		addPreset(jobUUID, presetName)
-	# 3. Add output path
+	+ Add output path
 		addOutput(jobUUID, outputFile)
-	# 4. Add segment
+	+ Add segment
 		addSegment(jobUUID)
-	# 5. Add input to segement
+	+ Add input to segement
 		addInputToSegment(jobUUID, inputFilePath, inputSubPath)
-	# 5.1 Get Input Segment
+	+ Get Input Segment
 		getInputSegment(jobUUID)
-	# 6 Add Drm key
+	+ Add Drm key
 		#addDRM(jobUUID, keyString, url)
-	# 7 Start Encoding Job
+	+ Start Encoding Job
 		startJob(jobUUID)
-	# 8 Get Encoding Status
+	+ Get Encoding Status
 		getJobStatus(jobUUID)
 
 2. 	Selenium Webdriver:
