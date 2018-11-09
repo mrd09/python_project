@@ -18,9 +18,9 @@ driver = webdriver.Firefox(executable_path=path)
 
 # Input infor:
 
-url="http://192.168.0.126:18087/CMSAdmin"
+#url="http://192.168.0.126:18087/CMSAdmin"
 
-#url="http://10.60.70.200:18082/CMSAdmin"
+url="http://10.60.70.200:18082/CMSAdmin"
 
 # User login
 user="onme"
@@ -35,9 +35,9 @@ number +=1
 preview_position="//tr[%s]/td[4]/button" % (number)
 
 # Select series
-series_name="Bạch Ngọc Đường"
+#series_name="Bạch Ngọc Đường"
 
-#series_name="Series_ONME"
+series_name="Series_ONME"
 
 # Input Title
 title_text="_Viettel_EasyReg_CleanAll_EncodeSub_Preview"

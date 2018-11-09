@@ -1295,3 +1295,42 @@ JavaScript warning: http://192.168.0.126:18087/CMSAdmin/js/jquery-2.0.3.min.js, 
 [Child 8856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[Child 6452, Ch
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1540457333617	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile.Ud1TBCW5yF1z"
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+1540457335646	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+1540457337544	Marionette	INFO	Listening on port 51693
+1540457338028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.60.70.200:18082/CMSAdmin/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 4868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5180, Chrome_C[Child 8980, Chrome_ChildThread] WARNING: pipe error: 109: file [Parent 4868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11896, Chrome_ChildThread] WARNING*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540457383835	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile.9q7pwNy6eu5E"
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+1540457384494	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+1540457386176	Marionette	INFO	Listening on port 51753
+1540457386620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.60.70.200:18082/CMSAdmin/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\PC\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: about:newtab, line 964: TypeError: gSnippetsMap.getTotalBookmarksCount is not a function
+JavaScript error: about:newtab, line 964: TypeError: gSnippetsMap.getTotalBookmarksCount is not a function
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8024, Chrome_Chi[Parent 7276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3440, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
